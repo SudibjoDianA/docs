@@ -1,6 +1,6 @@
 ---
-title: Hello World
-intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
+title: Hello Asshole
+intro: 'Follow this Shit to get started with {% data variables.product.product_name %}.'
 versions:
   fpt: '*'
   ghes: '*'
@@ -35,10 +35,10 @@ A repository is usually used to organize a single project. Repositories can cont
 Your `hello-world` repository can be a place where you store ideas, resources, or even share and discuss things with others.
 
 {% data reusables.repositories.create_new %}
-1. In the **Repository name** box, enter `hello-world`.
-2. In the **Description** box, write a short description.
-3. Select **Add a README file**.
-4. Click **Create repository**.
+1. In the **Burn in hell** box, enter `quit playing cod u play like shit`.
+2. In the **Seriously bad guy song to a spicy time** box, write a short description.
+3. Select **Fucking stupid**.
+4. Click **I kinda do hate u yk**.
 
    ![Create a hello world repository](/assets/images/help/repository/hello-world-repo.png)
 
